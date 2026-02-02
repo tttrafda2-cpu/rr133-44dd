@@ -1,0 +1,48 @@
+{
+  "bot-account": {
+    "username": "Vylex_craft", 
+    "password": "",
+    "type": "offline"
+  },
+
+  "server": {
+    "ip": "VLXCRAFT.aternos.me", 
+    "port": 34648,   
+    "version": "1.12.1"   
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": false,
+      "repeat-delay": 0,
+
+      "messages": [
+        "اهلا وسهلا باللاعبين الاعزاء",
+        "Welcome To Vylex",
+        "الرجاء مراجعة القوانين لتجنب الحظر"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 150000
+  }
+}
